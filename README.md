@@ -12,15 +12,15 @@ The objective is to provide actionable insights for one of the leading brands, B
 
 ## Table of Contents
 
-- General Info  
-- Screenshots  
-- Technologies and Tools  
-- Setup  
-- Code Examples  
-- Features  
-- Status  
-- Inspiration  
-- Contact
+* [General info](#general-info)
+* [Screenshots](#screenshots)
+* [Technologies and Tools](#technologies-and-tools)
+* [Setup](#setup)
+* [Code Examples](#code-examples)
+* [Features](#features)
+* [Status](#status)
+* [Inspiration](#inspiration)
+* [Contact](#contact)
 
 ---
 
@@ -34,11 +34,11 @@ The analysis answers four core business questions aimed at improving market stra
 
 ## Screenshots
 
-- ![Screenshot 1](./img/Capture.PNG)  
-- ![Screenshot 2](./img/Capture1.PNG)  
-- ![Screenshot 3](./img/Capture2.PNG)  
-- ![Screenshot 4](./img/Capture3.PNG)  
-- ![Screenshot 5](./img/Capture4.PNG)
+![Example screenshot](./img/Capture.PNG)
+![Example screenshot](./img/Capture1.PNG)
+![Example screenshot](./img/Capture2.PNG)
+![Example screenshot](./img/Capture3.PNG)
+![Example screenshot](./img/Capture4.PNG)
 
 ---
 
