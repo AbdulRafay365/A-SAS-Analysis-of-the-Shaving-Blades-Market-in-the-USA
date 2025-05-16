@@ -3,42 +3,11 @@
 This project presents a data-driven analysis of the U.S. shaving blades market.  
 The objective is to provide actionable insights for one of the leading brands, BIC, focusing on factors that can enhance their revenue performance.
 
-**Links:**
-
-- [Project Presentation (PDF)](https://github.com/harshbg/Shaving-Blades-Analysis/blob/master/Group03_Presentation(Print).pdf)  
-- [Full Project Report (PDF)](https://github.com/harshbg/Shaving-Blades-Analysis/blob/master/Group03_FinalReport.pdf)
-
----
-
-## Table of Contents
-
-* [General info](#general-info)
-* [Screenshots](#screenshots)
-* [Technologies and Tools](#technologies-and-tools)
-* [Setup](#setup)
-* [Code Examples](#code-examples)
-* [Features](#features)
-* [Status](#status)
-* [Inspiration](#inspiration)
-* [Contact](#contact)
-
----
-
 ## General Info
 
 This project uses sales data from various shaving blade brands sold across the United States.  
 The focus is on analyzing performance and trends from the perspective of BIC.  
 The analysis answers four core business questions aimed at improving market strategies and consumer targeting.
-
----
-
-## Screenshots
-
-![Example screenshot](./img/Capture.PNG)
-![Example screenshot](./img/Capture1.PNG)
-![Example screenshot](./img/Capture2.PNG)
-![Example screenshot](./img/Capture3.PNG)
-![Example screenshot](./img/Capture4.PNG)
 
 ---
 
